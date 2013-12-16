@@ -1,0 +1,14 @@
+{
+  "name": "rapid-proto",
+  "version": "0.0.0",
+  "description": "Parse Chat Program",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "greg benner",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
